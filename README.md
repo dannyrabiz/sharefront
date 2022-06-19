@@ -9,4 +9,4 @@ Simple pricing model to evaluate the potential profitability of prospective deal
 The idea is to develop a straighfoward method to visualize the combination of businesses needed for profitability in that space. The idea is to input the projected costs and revenue based on the specifics of that location, for example, the square footage, rent, storage space etc. As of now, sharefront offers 3 different subscription models to their clients, the pricing varies with the number of space the business recieves - these numbers may also be subject to change based on the location or other factors. 
 
 ## Challenge
-
+The users have no programming experience, so the challenge is to find the easiest solution for them to input new variables and interact with the data and visuals that are generated. 
